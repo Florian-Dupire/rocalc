@@ -940,7 +940,7 @@ ItemOBJ = [
 ,[933,2,1001,160,4,3,150,75,"Naght Sieger Twin Blade [Red]",0,"When dealing ATK based damage, 5% chance all ATK based attacks will ignore the defense of normal monsters and players for 5 seconds.",20,3,220,14,0]
 ,[934,3,1000,250,4,2,200,90,"Tae Goo Lyeon",0,"<b>[Job level >= 70]</b><br>When dealing ATK based damage, 1% chance you gain ATK +50 for 10 seconds.<br><b>[Refine Rate 9~10]</b><br>All skill's After-cast Delay -20%",11,10,0]
 ,[935,3,1000,275,4,2,220,80,"Violet Fear",0,"When dealing ATK based damage, 5% chance to completely bypass your target's defense for 5 seconds.",221,51,221,52,0]
-,[936,9,55,60,4,0,70,75,"Thorn Staff of Darkness",0,"<b>For each refine level:</b> 1% MDEF bypassing.<br>All skill's After-cast delay -(refine*3/2)",20,7,89,20,4,3,5,3,195,1,0]
+,[936,9,0,60,4,0,70,75,"Thorn Staff of Darkness",0,"<b>For each refine level:</b> 1% MDEF bypassing.<br>All skill's After-cast delay -(refine*3/2)",20,7,89,20,4,3,5,3,195,1,0]
 ,[937,1,128,120,3,3,70,70,"Dagger of Hunter",0,"10% chance to cast [Bash] Lv 10 when [Back Stab] is casted.",1,1,2,2,5,1,5169,20,0]
 ,[938,1,1001,130,3,2,70,50,"Ivory Knife",0,"When performing an ATK based attack, 30% chance to cause [Bleeding] status effect on your target.<br>3% chance to cast [Critical Wound] Lv 1 on your target when performing an ATK based attack.",2,2,12,3,0]
 ,[939,2,1001,105,3,3,120,70,"Elemental Sword",0,"When using [Cold Bolt] skill, 100% chance to cast [Fire Bolt] Lv 3 on your target.<br>When using [Fire Bolt] skill, 100% chance to cast [Lightening Bolt] Lv 3 on your target.<br>When using [Lightening Bolt] skill, 100% chance to cast [Earth Spike] Lv 3 on your target.",1,2,4,4,5,1,89,5,40,10,221,157,221,-2,221,-6,221,-146,0]
